@@ -1,0 +1,48 @@
+#################   Project Guide   ###############
+        Author :        Antrix_Techs
+        Mobile :        Not Available
+        Publish date:   Nov 03, 2024
+
+
+#################   About Project   ###############
+    React E-Commerce Shopping Application  (Cash on Delivery)
+    Technologies
+        FrontEnd
+            1. HTML
+            2. CSS
+            3. Bootstrap 5
+            4. React (JSX)
+        BackEnd
+            1. JSON-SERVER (mock api)
+
+
+#################   How to SetUp & Run the Project   ###############
+    Download Project Source Code :  https://github.com/Antrix-Techs/FrontEnd-Live-project/archive/refs/heads/main.zip   
+    Download Api Source Code : https://github.com/Antrix-Techs/api/archive/refs/heads/main.zip
+
+
+Note : Steps to Setup the Project
+    1. Download the source code from the above url.
+    2. Unzip/Extract both the folders.
+    3. Install Nodejs 18+ version in your system.
+    4. Install React Development Enviroenment using below command
+        npm install -g create-react-app 
+    5. Install JSON-SERVER to run api.
+        npm install -g json-server 
+    6. Start the JSON-SERVER using the below command
+        a. open CMD in api folder (that you have extracted).
+
+            json-server --watch data.json --port 1234
+
+    7. Start React-Development-server
+        a. open CMD in react project folder that is "project1" and run this command
+            npm start 
+
+        Note : You can browse http://localhost:3000
+
+    Thanks for your time to see my project.
+    Hoping for Positive response.
+        Antrix_Techs (9009009009)
+
+#####################################################################################################################
+    
